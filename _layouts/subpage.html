@@ -30,20 +30,11 @@ layout: default
     <div class="list-item-2 margin-top-20 margin-bottom-50">      
       {% for x in page.paragraphs %}
       <div class="container wrap-reverse align-items-end justify-content-center" data-aos="fade-up" data-aos-delay="0" data-aos-offset="0">
-        <div class="flex-basis-400 flex-grow-5">          
+        <div class="flex-basis-400 flex-grow-5">
           {% if x.paragraph_title %}
-          <div class="margin-top-30" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0">
-            <h2 class="list-post-title">              
-              <a id={{x.paragraph_title | replace: " ", "_" }}></a>
+          <div class="" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0">
+            <h2 class="list-post-title">
             {{x.paragraph_title}}
-            </h2>
-          </div>
-          {% endif %}
-          {% if x.subparagraph_title %}
-          <div class="margin-top-30" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0">
-            <h2 class="list-post-title" style="font-size: 26px; color: #515151">              
-              <a id={{x.subparagraph_title | replace: " ", "_" }}></a>
-            {{x.subparagraph_title}}
             </h2>
           </div>
           {% endif %}
@@ -55,7 +46,7 @@ layout: default
         </div>        
       </div>
       {% if x.image %}
-      <div class="list-item-2-img flex-basis-300 flex-grow-1" style="padding: 10px;" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0">
+      <div class="list-item-2-img flex-basis-300 flex-grow-1" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0">
         <img src="{{ site.baseurl }}/assets/img/{{ x.image }}" width="100%" alt="">
       </div>
       {% endif %}

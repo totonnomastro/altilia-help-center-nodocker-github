@@ -21,10 +21,9 @@ language:  "en"
 # Build settings
 markdown: kramdown
 permalink: /:title/
-plugins: [jekyll-paginate]
+gems: [jekyll-paginate]
 paginate: 5
 
 # Plugins
 plugins_dir:
   - jekyll-admin
-auto_ids: true
