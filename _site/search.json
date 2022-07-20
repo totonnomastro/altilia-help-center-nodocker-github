@@ -1,0 +1,51 @@
+[
+  
+    {
+      "title"       : "The Altilia Approaches",
+      "description" : "A set of services that empowers you to create your own project according to your needs.",
+      "date"        : "2022-06-23 16:46:41 +0200",
+      "categories"  : "start and blog",
+      "by"          : "Altilia Service",
+      "url"         : "/altilia-help-center/altilia_approaches/",
+      "icon"        : "activity",
+      "questions"   : null
+
+    } ,
+  
+    {
+      "title"       : "User Interface",
+      "description" : "Description of the Altilia User Interface",
+      "date"        : "2022-06-23 16:46:41 +0200",
+      "categories"  : "start and blog",
+      "by"          : "Altilia Service",
+      "url"         : "/altilia-help-center/user_interface/",
+      "icon"        : "smartphone",
+      "questions"   : null
+
+    } ,
+  
+    {
+      "title"       : "Getting Started",
+      "description" : "Start with a basic approach to discover and familiarize yourself with our platform right away.",
+      "date"        : "2022-06-07 16:46:41 +0200",
+      "categories"  : "start and blog",
+      "by"          : "Altilia Service",
+      "url"         : "/altilia-help-center/getting_started/",
+      "icon"        : "user-check",
+      "questions"   : null
+
+    } ,
+  
+    {
+      "title"       : "Manual Index",
+      "description" : "Index of the official documentation of the Altilia Intelligent Automation platform",
+      "date"        : "2017-11-12 21:46:41 +0100",
+      "categories"  : "start and blog",
+      "by"          : "Altilia Service",
+      "url"         : "/altilia-help-center/manual_index/",
+      "icon"        : "help-circle",
+      "questions"   : null
+
+    } 
+  
+]

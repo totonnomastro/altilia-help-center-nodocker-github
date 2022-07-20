@@ -1,0 +1,1 @@
+Sitemap: http://localhost:4000/altilia-help-center/sitemap.xml
