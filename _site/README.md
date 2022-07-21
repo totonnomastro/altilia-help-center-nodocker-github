@@ -7,7 +7,7 @@ Simple and responsive Jekyll theme for help center.
 ![Color Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/responsive.png)
 
 # Color theme
-edit in _config.yml
+edit in _config.yml 
 ```
 color_theme:  "#0081ff"
 color_text:  "#fff"
